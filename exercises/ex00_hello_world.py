@@ -4,3 +4,4 @@ def greet(name: str) -> str:
 
 
 print(greet("Trailhead"))
+greet(name="student")
